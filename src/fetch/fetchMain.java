@@ -6,6 +6,8 @@ public class  fetchMain {
         System.out.println("fetch add something");
         //test
         System.out.println("fetchlzh add");
+         //test02
+        System.out.println("fetch add new 02");
 
     }
 }
