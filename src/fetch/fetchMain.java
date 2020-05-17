@@ -9,5 +9,6 @@ public class  fetchMain {
          //test02
         System.out.println("fetch add new 02");
 
+        System.out.println("fetchlzh02 add");
     }
 }
